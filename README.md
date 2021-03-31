@@ -12,7 +12,7 @@ git clone https://github.com/Gerch17/Java-Spring-Converter.git
 
 src/main/resources/application.properties
 
-Заполняем своими значениями места, который помечены комментариями
+Заполняем своими значениями места, которые помечены комментариями
 
 Создание таблиц находится в файле initDB.sql
 
